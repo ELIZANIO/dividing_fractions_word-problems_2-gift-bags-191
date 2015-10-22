@@ -1,0 +1,2 @@
+# dividing_fractions_word-problems_2-gift-bags-191
+A unidade de medida no anunciado da questão está em quilos; e na pergunta, a unidade de medida está em libra. Sabendo-se que 1 libra equivale a 0,453592 quilos; Para obter a resposta, deve-se primeiro ser convertidas as quantidade par uma única unidade. As dicas não estão sendo feitas desta maneira. Fazendo com que a resposta final fique, no ponto de vista, incorreta.
